@@ -1,6 +1,7 @@
 using UnityEngine;
 
 
+
 public class GerenciadorPortas : MonoBehaviour
 {
     public Porta[] portas; 
